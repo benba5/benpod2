@@ -1,0 +1,6 @@
+framework module AMFramework {
+  umbrella header "AMFramework.h"
+
+  export *
+  module * { export * }
+}
