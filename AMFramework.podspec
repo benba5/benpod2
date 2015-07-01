@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
 
-    s.name          = "AMFramework-SDK"
+    s.name          = "AMFramework"
     s.version       = "0.0.1"
     s.summary       = "My first test pod."
 
